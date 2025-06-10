@@ -25,7 +25,7 @@ const Header = ({
             </Button>
           )}
           <div>
-            <h1 className="text-xl font-bold text-purple-600">Color Code</h1>
+            <h1 className="text-xl font-bold text-purple-600">Цветочный Код</h1>
             {title && <p className="text-sm text-gray-600">{title}</p>}
           </div>
         </div>
